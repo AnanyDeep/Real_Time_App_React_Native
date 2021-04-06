@@ -17,6 +17,7 @@ STEP 6 : Type "npm start" or "yarn start".
 # Web
 ## Android Preview 📱:
 <img src="https://user-images.githubusercontent.com/71371746/113759679-fb95f580-9732-11eb-9815-fd5751082b12.gif" width="200" height="400" />
+There is bug on my android it does'nt show last word, but it will work on your device fine. If not mention down below.
 
 ## Web Preview 🌐 :
 <img src="https://user-images.githubusercontent.com/71371746/113757950-e3bd7200-9730-11eb-9472-f684213306d1.gif" width="600" height="300" />
